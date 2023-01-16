@@ -1,0 +1,29 @@
+{
+	"name": "grounded",
+	"version": "1.2.7",
+	"versionStr": "beta",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"brotli": "1.3.3",
+		"formidable": "2.1.1",
+		"ip-blacklist": "^1.0.2",
+		"js-md5": "0.7.3",
+		"mocha": "^10.2.0",
+		"mp3-duration": "^1.1.0",
+		"node": "^18.12.1",
+		"node-fetch": "^3.3.0",
+		"node-gyp": "^9.3.1",
+		"node-lame": "^1.3.2",
+		"node-stream-zip": "^1.15.0",
+		"node-zip": "github:kyriosli/node-zip",
+		"python-shell": "^3.0.1",
+		"sax": "^1.2.4",
+		"xmldoc": "^1.2.0"
+	},
+	"devDependencies": {
+		"nyc": "^15.1.0"
+	}
+}

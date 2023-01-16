@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="devs" name="Developer Assets">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<prop id="redrawn.png" name="Redrawn logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73773" money="0" sharing="0"/>
+<prop id="ronline.png" name="Redrawn Online logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="rdmobile.png" name="Redrawn Mobile logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="legacy.png" name="Redrawn Legacy logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="outline.png" name="Redrawn paintbrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="onlineoutline.png" name="Redrawn Online paintbrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="mobilebrush.png" name="Redrawn Mobilebrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="legacypaintbrush.png" name="Redrawn Legacy paintbrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+
+</theme>
